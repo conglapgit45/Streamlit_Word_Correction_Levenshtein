@@ -9,4 +9,4 @@ A streamlit app that help correct your wrong word using Levenshtein distance
 
 ## Result  
 
-![Image 02: Demo result in Gradio](result_demo.png)
+![Image 01: Demo result in Streamlit](demo.PNG)
